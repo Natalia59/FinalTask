@@ -1,5 +1,5 @@
 ﻿
-string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
+string[] array1 = new string[5] {"123", "156", "-2", "computer science", "hello"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
